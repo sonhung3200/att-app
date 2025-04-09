@@ -1,8 +1,4 @@
-Dưới đây là README tiếng Anh mẫu chuẩn chỉnh cho dự án của em — đã bao gồm phần mô tả, cách cài đặt và chạy cả frontend và backend. Em chỉ cần copy-paste vào file `README.md` ở thư mục gốc của repo (`att-app/`).
 
----
-
-```markdown
 # Attendance App
 
 A simple attendance tracking system for a cafe, designed to manage part-time employees' check-in and check-out times, calculate total working hours, and compute salaries (with additional pay for night shifts).
@@ -105,8 +101,3 @@ Make sure you add appropriate `.env` files in both backend and frontend (if need
 ## 📮 Contact
 
 If you have any questions or issues, feel free to open an issue or contact [sonhung3200](https://github.com/sonhung3200).
-```
-
----
-
-Nếu em cần phiên bản ngắn gọn hơn, hoặc muốn anh thêm ảnh minh họa, badges, hoặc hướng dẫn deploy (Render, Vercel, v.v), nói anh nhé 😄
